@@ -1,0 +1,13 @@
+package com.contactpracticesb;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ContactPracticeSbApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
